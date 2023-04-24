@@ -1,0 +1,7 @@
+.uc-navbar .uc-navbar_nav {
+    justify-content: start;
+}
+.uc-navbar .uc-navbar_nav .nav-item {
+    flex-grow: 0;
+    padding: 1px 30px;
+}
